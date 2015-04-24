@@ -3,7 +3,7 @@ import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
-
+//hahaha
 public class J_GridBagLayout{	
 	public static void main(String args[]){
 		JFrame app = new JFrame("网格包布局管理器例程");
